@@ -2,15 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/screen.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/AccThumbnailTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/MonsterTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_customize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_customizeAccessories.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_customizeColor.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_customizeFinal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_customizeName.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_customizeType" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_preloader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/customizeColorTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/customizeFinalTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/customizeName.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/customizeTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/customizeTypeTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/splashTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/thumbnailTemplate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Backbone-Monster-Creator.iml" afterPath="$PROJECT_DIR$/.idea/Backbone-Monster-Creator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="$PROJECT_DIR$/sass/screen.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Backbone-Monster-Creator.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385036495673" ignored="false" />
+    <file path="/Dummy.txt" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385036938250" ignored="false" />
     <file path="/config.rb" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385036042987" ignored="false" />
-    <file path="/screen.scss" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385036588587" ignored="false" />
+    <file path="/screen.scss" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385037484302" ignored="false" />
+    <file path="/index.html" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385037127636" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +49,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="MonsterTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/MonsterTemplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.rb">
+      <file leaf-file-name="AccThumbnailTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/AccThumbnailTemplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="14" selection-start="132" selection-end="132" vertical-scroll-proportion="0.10273973">
+            <state line="1" column="1" selection-start="70" selection-end="70" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <file leaf-file-name="customizeAccessoriesTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="-3.6">
+            <state line="21" column="1" selection-start="765" selection-end="765" vertical-scroll-proportion="-13.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customizeColorTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeColorTemplate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="-11.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customizeFinalTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeFinalTemplate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customizeName.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeName.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="1" selection-start="774" selection-end="774" vertical-scroll-proportion="-10.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customizeTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeTemplate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="2" selection-start="1102" selection-end="1102" vertical-scroll-proportion="-17.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customizeTypeTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeTypeTemplate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="8" selection-start="646" selection-end="646" vertical-scroll-proportion="-11.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splashTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/splashTemplate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="1" selection-start="522" selection-end="522" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thumbnailTemplate.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/thumbnailTemplate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="70" selection-end="70" vertical-scroll-proportion="0.029296875">
               <folding />
             </state>
           </provider>
@@ -76,13 +158,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/screen.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1582" />
-    <option name="y" value="162" />
+    <option name="x" value="24" />
+    <option name="y" value="33" />
     <option name="width" value="1260" />
     <option name="height" value="730" />
   </component>
@@ -141,7 +224,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -159,12 +256,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -188,17 +304,22 @@
       <created>1385035640959</created>
       <updated>1385035640959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="routine changes">
+      <created>1385036768171</created>
+      <updated>1385036768171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1582" y="162" width="1260" height="730" extended-state="0" />
-    <editor active="false" />
+    <frame x="24" y="33" width="1260" height="730" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -208,7 +329,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -276,21 +396,28 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/sass/_customizeColor.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
+    <entry file="file://$PROJECT_DIR$/sass/_customize.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/sass/_customizeName.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_customizeFinal.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -299,14 +426,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="-3.6">
+        <state line="13" column="25" selection-start="506" selection-end="506" vertical-scroll-proportion="-7.8">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
+    <entry file="file://$PROJECT_DIR$/sass/_preloader.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="132" selection-end="132" vertical-scroll-proportion="0.10273973">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/MonsterTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/AccThumbnailTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="70" selection-end="70" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="765" selection-end="765" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeColorTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeFinalTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeName.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="774" selection-end="774" vertical-scroll-proportion="-10.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="2" selection-start="1102" selection-end="1102" vertical-scroll-proportion="-17.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeTypeTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="8" selection-start="646" selection-end="646" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/splashTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="522" selection-end="522" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/thumbnailTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="70" selection-end="70" vertical-scroll-proportion="0.029296875">
           <folding />
         </state>
       </provider>
