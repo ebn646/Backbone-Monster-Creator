@@ -70,9 +70,7 @@ define(['backbone',
             thumbContainer.empty();
             var results = App.resources.monsterParts.getByTypeAndCat(App.user.monster.get("type"), "color");
             var thumbImages=[];
-            console.log('>>>>>>>>>>>>>>', results);
             var i;
-
             var thumbX = 0;
             var thumbY = 0;
 

@@ -204,8 +204,11 @@ define([
 
         changeBackgroundNumber:function(){
             var self = this;
-            $('#background-numbers').find('img').css('display','none');
-            $('#background-numbers').find('img').eq(self.currentStepIndex).css('display','block');
+            var bgImg = $('#background-numbers').find('img');
+            var currentImg =  $('#background-numbers').find('img').eq(self.currentStepIndex);
+            bgImg.css('display','none');
+            currentImg.css('display','block');
+            TweenMax.from(currentImg, 1, {css:{opacity:0, left:'800'}});
         },
 
         onClearMonsterName:function(){
@@ -299,8 +302,6 @@ define([
            Backbone.dispatcher.trigger('currentStepIndexChange',[self.currentStepIndex]);
         },
 
-
-
         showMonster:function(transitionTime){
             var self = this;
             $('#monster-canvas-container').removeClass('hidden');
@@ -312,18 +313,15 @@ define([
           var self = this;
 
             $('#monster-canvas-container').addClass('hidden');
-//
-
         },
 
         moveMonsterToCenter:function(){
-            var container =  $('#monster-canvas-container')
-            TweenMax.to(container, 1, {css:{left:"166px"}, delay:0.5});
-            //if(App.user.model.get('monsterName') != ""){
-                var nametxt = $(container).find('.nametxt');
-                nametxt.css('display','block');
-                TweenMax.from(nametxt, 1, {css:{opacity:0}, delay:1});
-            //}
+            var container =  $('#monster-canvas-container');
+            container.css('left','166px');
+            TweenMax.from(container, 1, {css:{opacity:0}, delay:0});
+            var nametxt = $(container).find('.nametxt');
+            nametxt.css('display','block');
+            TweenMax.from(nametxt, 1, {css:{opacity:0}, delay:1});
         },
 
         // handle sub page changes --------------------------------------------------	/

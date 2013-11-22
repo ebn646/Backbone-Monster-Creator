@@ -13,7 +13,6 @@ define(['backbone','tweenmax','text!templates/MonsterTemplate.html'],function(ba
 		initialize:function(options){
 			//this.model = options.model;
             //el is monstercontainer from customize view
-            console.log('MonsterView init')
 			this.id = this.model.get('classID');
             this.model.bind('change', this.render, this);
         },
@@ -48,7 +47,7 @@ define(['backbone','tweenmax','text!templates/MonsterTemplate.html'],function(ba
             }else{
                 var name = this.model.get('monsterName').substr(0, 1).toUpperCase() + this.model.get('monsterName').substr(1);
                 nametxt.html("Hi, I'm " + name);
-                TweenMax.from(nametxt, 1, {css:{opacity:0, y:10}, delay:2});
+                TweenMax.from(nametxt, 1, {css:{opacity:0, y:10}, delay:1});
             }
 
             this.open();
