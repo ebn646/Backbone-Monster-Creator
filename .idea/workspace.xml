@@ -2,165 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step1/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step1/arrow_left_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step1/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step1/arrow_right_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/blueMask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type4/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type5/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type6/skin/colors/body_col_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/colors/body_col_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/colors/body_col_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/colors/body_col_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/colors/body_col_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/colors/body_col_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/colors/body_col_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/colors/body_col_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/colors/body_col_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/colors/body_col_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/colors/body_col_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/colors/body_col_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/colors/body_col_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/colors/body_col_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/colors/body_col_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/colors/body_col_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/colors/body_col_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/colors/body_col_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/colors/body_col_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/colors/body_col_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/colors/body_col_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/colors/body_col_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/colors/body_col_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/colors/body_col_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/colors/body_col_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step1/chooseMonster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/done.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/eyelashes/eye_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/eyelashes/eye_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/eyelashes/eye_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/eyelashes/eye_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/eyelashes/eye_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/eyelashes/eye_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/eyelashes/eye_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/eyelashes/eye_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/eyelashes/eye_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/eyelashes/eye_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/hair/hair_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/hair/hair_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/hair/hair_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/hair/hair_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/hair/hair_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/hair/hair_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/hair/hair_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/hair/hair_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/hair/hair_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/hair/hair_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/hair/hair_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/hair/hair_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/hair/hair_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/hair/hair_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/hair/hair_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/hair/hair_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/hair/hair_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/hair/hair_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/hair/hair_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/hair/hair_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/hair/hair_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/hair/hair_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/hair/hair_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/hair/hair_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/skin/hair/hair_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type1/thumbnails/skin/hair/hair_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/skin/hair/hair_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type2/thumbnails/skin/hair/hair_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/skin/hair/hair_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsters/type3/thumbnails/skin/hair/hair_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step4/name_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/navTimeline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/navTimelineSS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/nextButtonTextSS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step5/stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/stepBubble1SS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/stepBubble2SS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/stepBubble3SS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/stepBubble4SS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/stepBubbleDoneSS (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/stepBubbleDoneSS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step5/stepBubbleDoneSS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step3/thumb_frame.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step3/thumb_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/thumb_preloader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step3/thumb_preloader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/topRibbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/AbstractContent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/AbstractSubContentView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/AccThumbnailView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/AccessoryCollectionView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/models/AppConfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/models/AppCopy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/models/AppResources.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/ColorThumbCollectionView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeAccessoriesView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeBackgroundNumbersView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeColorView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeFinalView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeNameView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeTypeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/CustomizeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/EventBus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/models/Monster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/MonsterView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/PxLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/PxLoaderImage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/PxLoaderSound.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/PxLoaderText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/PxLoaderVideo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/SplashView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/ThumbnailButtonView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/TimelineLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/TimelineMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/TweenLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/easeljs-0.6.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery-serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/modernizr.custom.16246.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/soundmanager2-nodebug-jsmin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step2/chooseColor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step2/preloader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_splash.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/_customizeType" afterPath="$PROJECT_DIR$/sass/_customizeType.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/models/AppResources.js" afterPath="$PROJECT_DIR$/js/models/AppResources.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/CustomizeTypeView.js" afterPath="$PROJECT_DIR$/js/views/CustomizeTypeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/MonsterView.js" afterPath="$PROJECT_DIR$/js/views/MonsterView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_customize.scss" afterPath="$PROJECT_DIR$/sass/_customize.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_customizeColor.scss" afterPath="$PROJECT_DIR$/sass/_customizeColor.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_preloader.scss" afterPath="$PROJECT_DIR$/sass/_preloader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/customizeColorTemplate.html" afterPath="$PROJECT_DIR$/templates/customizeColorTemplate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/screen.css" afterPath="$PROJECT_DIR$/stylesheets/screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Backbone-Monster-Creator.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385085443290" ignored="false" />
+    <file path="/Dummy.txt" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385086616335" ignored="false" />
     <file path="/config.rb" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385036042987" ignored="false" />
     <file path="/screen.scss" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385037484302" ignored="false" />
     <file path="/index.html" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385037127636" ignored="false" />
     <file path="$PROJECT_DIR$/../assessment-test-case/utils.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385047688861" ignored="false" />
     <file path="$PROJECT_DIR$/../assessment-test-case/appView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385047762372" ignored="false" />
     <file path="$PROJECT_DIR$/../github/Backbone_AMD/js/main.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385085596151" ignored="false" />
+    <file path="/CustomizeTypeView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385087544953" ignored="false" />
+    <file path="/MonsterView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123255745" ignored="false" />
+    <file path="/_customize.scss" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123610655" ignored="false" />
+    <file path="/a.dummy" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123742434" ignored="false" />
+    <file path="/app.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123988232" ignored="false" />
+    <file path="/customizeColorTemplate.html" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385124141848" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,91 +52,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="customizeTypeTemplate.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/customizeTypeTemplate.html">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+            <state line="14" column="101" selection-start="315" selection-end="315" vertical-scroll-proportion="0.10810811">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="splashTemplate.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/splashTemplate.html">
+      <file leaf-file-name="customizeColorTemplate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeColorTemplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
+            <state line="11" column="61" selection-start="509" selection-end="509" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thumbnailTemplate.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/thumbnailTemplate.html">
+      <file leaf-file-name="_customizeColor.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_customizeColor.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="-0.625">
+            <state line="11" column="21" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.6">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="CustomizeColorView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/CustomizeColorView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="-10.75">
+            <state line="74" column="33" selection-start="2127" selection-end="2179" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/text.js">
+      <file leaf-file-name="AppResources.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/models/AppResources.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="123" selection-start="3048" selection-end="3048" vertical-scroll-proportion="0.0">
+            <state line="140" column="62" selection-start="4323" selection-end="4323" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/router.js">
+      <file leaf-file-name="_preloader.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_preloader.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="58" column="1" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-32.6">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="require.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/libs/require.js">
+      <file leaf-file-name="CustomizeTypeView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/CustomizeTypeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SplashView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/views/SplashView.js">
+      <file leaf-file-name="MonsterView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/MonsterView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="4" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="15" column="41" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppCopy.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/models/AppCopy.js">
+      <file leaf-file-name="_customize.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_customize.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="495" selection-end="495" vertical-scroll-proportion="0.44036698">
-              <folding />
+            <state line="308" column="14" selection-start="7704" selection-end="7704" vertical-scroll-proportion="-23.68">
+              <folding>
+                <element signature="e#64#895#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="506" selection-end="506" vertical-scroll-proportion="-7.8">
+            <state line="18" column="39" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -290,16 +166,27 @@
       <list>
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/sass/screen.scss" />
         <option value="$PROJECT_DIR$/sass/_normalize.scss" />
+        <option value="$PROJECT_DIR$/sass/screen.scss" />
+        <option value="$PROJECT_DIR$/sass/_preloader.scss" />
+        <option value="$PROJECT_DIR$/sass/_customizeType.scss" />
+        <option value="$PROJECT_DIR$/js/views/CustomizeTypeView.js" />
+        <option value="$PROJECT_DIR$/js/views/MonsterView.js" />
+        <option value="$PROJECT_DIR$/sass/_customize.scss" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/templates/customizeColorTemplate.html" />
+        <option value="$PROJECT_DIR$/sass/_customizeColor.scss" />
+        <option value="$PROJECT_DIR$/js/models/AppResources.js" />
+        <option value="$PROJECT_DIR$/js/views/CustomizeColorView.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
-    <option name="y" value="24" />
+    <option name="x" value="2" />
+    <option name="y" value="22" />
     <option name="width" value="1260" />
-    <option name="height" value="729" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -411,7 +298,101 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monsters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -440,11 +421,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/sass" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/customize" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
@@ -482,18 +465,26 @@
       <created>1385085447801</created>
       <updated>1385085447801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="routine changes">
+      <created>1385086546798</created>
+      <updated>1385086546798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="routine changes">
+      <created>1385086619546</created>
+      <updated>1385086619546</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="24" width="1260" height="729" extended-state="0" />
-    <editor active="false" />
+    <frame x="2" y="22" width="1260" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -570,86 +561,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html">
+    <entry file="file://$PROJECT_DIR$/js/models/AppCopy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="765" selection-end="765" vertical-scroll-proportion="-0.625">
+        <state line="31" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/customizeColorTemplate.html">
+    <entry file="file://$PROJECT_DIR$/sass/_splash.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/customizeFinalTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/customizeName.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/customizeTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="2" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/customizeTypeTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/splashTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="506" selection-end="506" vertical-scroll-proportion="-7.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_normalize.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="405" column="1" selection-start="7451" selection-end="7451" vertical-scroll-proportion="1.2352941">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/thumbnailTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="-10.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/text.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="123" selection-start="3048" selection-end="3048" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -661,23 +582,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/libs/require.js">
+    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="397" selection-end="397" vertical-scroll-proportion="0.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_customizeType.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="-17.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/CustomizeView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/MonsterView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="41" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_customize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="308" column="14" selection-start="7704" selection-end="7704" vertical-scroll-proportion="-23.68">
+          <folding>
+            <element signature="e#64#895#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_preloader.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="1" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-32.6">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/SplashView.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="4" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
+        <state line="18" column="39" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/models/AppCopy.js">
+    <entry file="file://$PROJECT_DIR$/templates/customizeColorTemplate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="495" selection-end="495" vertical-scroll-proportion="0.44036698">
+        <state line="11" column="61" selection-start="509" selection-end="509" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_customizeColor.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/AppResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="62" selection-start="4323" selection-end="4323" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/CustomizeTypeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/CustomizeColorView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="33" selection-start="2127" selection-end="2179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="101" selection-start="315" selection-end="315" vertical-scroll-proportion="0.10810811">
           <folding />
         </state>
       </provider>

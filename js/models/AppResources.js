@@ -138,6 +138,7 @@ define(['backbone'],function(Backbone){
 		model:MonsterPart,
 
         getByTypeAndCat: function(monsterType, category, hasFur, ignoreFur){
+            console.log('>>>>>>>>>>>>>>', monsterType,category);
 
             var self = this;
             var result;

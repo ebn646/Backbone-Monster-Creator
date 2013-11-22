@@ -247,8 +247,6 @@ define(['backbone','views/AbstractContent','views/MonsterView','text!templates/c
 			// keep this at the very last
 			Backbone.dispatcher.trigger("destroy");
 		}
-		
-
 	});
 
 	return CustomizeTypeView;

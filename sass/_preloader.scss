@@ -1,0 +1,59 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  min-height: 850px;
+  max-height: 1200px;
+}
+
+#overlay-container{
+  width: 100%;
+  height: 100%;
+  min-height: 850px;
+  max-height: 1200px;
+  background: url("../images/preloader/bg.jpg") no-repeat;
+  z-index: 9999;
+
+  #site-preloader{
+    position: absolute;
+    width: 810px;
+    height: 850px;
+
+    #load-ribbon {
+      position: absolute;
+      left: 268px;
+      top: 400px;
+
+      img{
+        display:block;
+        margin-bottom:15px;
+        text-align:center;
+      }
+
+      img:first-child{
+        margin-left:135px;
+      }
+    }
+  }
+
+}
+
+#app {
+
+  font-family: 'Noto Sans', sans-serif;
+  color: #000000;
+  font-size: 0.9em;
+  line-height: 1.3em;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -405px;
+  margin-top: -425px;
+  width: 810px;
+  height: 850px;
+  background:white;
+  overflow: hidden;
+  z-index: 1;
+  -moz-box-shadow:   1px 1px 10px 1px rgba(0, 0, 0, .78);
+  -webkit-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, .78);
+  box-shadow:         1px 1px 10px 1px rgba(0, 0, 0, .78);
+}

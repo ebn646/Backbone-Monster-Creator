@@ -1,0 +1,42 @@
+#CustomizeTypeView {
+  width: 810px;
+  height: 850px;
+  background-color:none;
+
+  #arrows-container {
+    position: absolute;
+    z-index: 12;
+    top: 0px;
+    left: 0px;
+
+    .arrow-selector {
+      position: absolute;
+      top: 488px;
+    }
+
+    #left-arrow {
+      left: 157px;
+    }
+
+    #right-arrow {
+      left: 604px;
+    }
+
+    .arrow {
+      width: 48px;
+      height: 48px;
+      position: absolute;
+      display: block;
+    }
+
+    .arrow a{
+      display: block;
+    }
+
+    .arrow img{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+  }/*  end arrow container  */
+}

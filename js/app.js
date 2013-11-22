@@ -7,13 +7,12 @@ App.user = {};
 define(['jquery',
     'underscore',
     'backbone',
-    //models
     'models/AppResources',
     'models/AppCopy',
     // 'models/AppConfig',
     'pxloader',
     'pxloaderimage',
-	'tweenmax','router'],function(Jquery,Underscore,Backbone,AppResources,AppCopy,loader,imageloader,/*AppConfig,*/Tweenmax,Router){
+	'tweenmax','router'],function(Jquery,Underscore,Backbone,AppResources,AppCopy,loader,imageloader,Tweenmax,Router){
 
 	var AppView = Backbone.View.extend({
 
@@ -51,6 +50,7 @@ define(['jquery',
             })
 
             loader.addCompletionListener(function() {
+                $('#overlay-container').empty();
                 TweenMax.delayedCall(1, self.revealApplication, [], self);
             });
 

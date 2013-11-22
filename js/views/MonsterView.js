@@ -13,6 +13,7 @@ define(['backbone','tweenmax','text!templates/MonsterTemplate.html'],function(ba
 		initialize:function(options){
 			//this.model = options.model;
             //el is monstercontainer from customize view
+            console.log('MonsterView init')
 			this.id = this.model.get('classID');
             this.model.bind('change', this.render, this);
         },
