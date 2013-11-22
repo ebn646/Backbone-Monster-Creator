@@ -317,7 +317,13 @@ define([
         },
 
         moveMonsterToCenter:function(){
-            TweenLite.to($('#monster-canvas-container'), 1, {css:{left:"166px"}, delay:0.5});
+            var container =  $('#monster-canvas-container')
+            TweenMax.to(container, 1, {css:{left:"166px"}, delay:0.5});
+            //if(App.user.model.get('monsterName') != ""){
+                var nametxt = $(container).find('.nametxt');
+                nametxt.css('display','block');
+                TweenMax.from(nametxt, 1, {css:{opacity:0}, delay:1});
+            //}
         },
 
         // handle sub page changes --------------------------------------------------	/

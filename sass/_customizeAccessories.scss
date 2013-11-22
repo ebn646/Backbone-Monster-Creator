@@ -1,0 +1,103 @@
+#CustomizeAccessoriesView{
+
+  width: 810px;
+  height: 850px;
+  background-color:none;
+
+  #accessories-selector {
+    position: absolute;
+    top: 289px;
+    left: 64px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    font-weight: 700;
+
+    .button-thumbnail{
+      position: relative;
+      height:80px;
+      margin-bottom: 7px;
+      border: 3px solid #ffffff;
+      -moz-box-shadow:
+        0px 3px 11px rgba(000,000,000,0.5),
+        inset 0px 0px 1px rgba(255,000,217,1);
+      -webkit-box-shadow:
+        0px 3px 11px rgba(000,000,000,0.5),
+        inset 0px 0px 1px rgba(255,000,217,1);
+      box-shadow:
+        0px 3px 11px rgba(000,000,000,0.5),
+        inset 0px 0px 1px rgba(255,000,217,1);
+      text-shadow:
+          0px -1px 0px rgba(000,000,000,0.2),
+        0px 1px 0px rgba(255,255,255,0.3);
+    }
+
+    #accessories-selector #label-buttons-container {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 255px;
+      height: 345px;
+      z-index: 21;
+    }
+  }
+  #accessories-selector #label-buttons-container{
+    display:block;
+    width: 350px;
+    padding-top: 12px;
+  }
+
+  #accessories-selector #label-buttons-container .label-button {
+    position: relative;
+    width: 175px;
+    height: 41px;
+    text-align: center;
+    line-height: 41px;
+    margin: 0 0 7px 0;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #ffa200;
+    padding: 0px 20px;
+    background: -moz-linear-gradient(
+        top,
+        #ffffff 0%,
+        #ffffff 50%,
+        #d6d6d6);
+    background: -webkit-gradient(
+        linear, left top, left bottom,
+        from(#ffffff),
+        color-stop(0.50, #ffffff),
+        to(#d6d6d6));
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow:
+      0px 1px 3px rgba(000,000,000,0.5),
+      inset 0px 0px 3px rgba(255,255,255,1);
+    -webkit-box-shadow:
+      0px 1px 3px rgba(000,000,000,0.5),
+      inset 0px 0px 3px rgba(255,255,255,1);
+    box-shadow:
+      0px 1px 3px rgba(000,000,000,0.5),
+      inset 0px 0px 3px rgba(255,255,255,1);
+    text-shadow:
+        0px -1px 0px rgba(000,000,000,0.1),
+      0px 1px 0px rgba(255,255,255,1);
+  }
+
+  #accessories-selector #label-buttons-container .label-button a{
+    color: #2f42bd;
+    display:block;
+    text-decoration: none;
+  }
+
+  /* accessory thumbs */
+
+  #accessories-selector #thumbnail-buttons-container{
+    display:block;
+    width: 285px;
+    padding-top: 12px;
+  }
+}/*end accessories view*/
+

@@ -41,17 +41,14 @@ define(['backbone','tweenmax','text!templates/MonsterTemplate.html'],function(ba
             }
 
             //set name
-            if(this.model.get('monsterName') == ""){
-                this.$el.find('.nametxt').css('display','none');
-            }
+            var nametxt =  this.$el.find('.nametxt');
 
-            if(this.model.get('monsterName') != ""){
-                if(this.model.get('monsterName') != undefined){
-                    var name = this.model.get('monsterName').substr(0, 1).toUpperCase() + this.model.get('monsterName').substr(1);
-                    this.$el.find('.nametxt').html("Hi, I'm " + name);
-                } else{
-                    this.$el.find('.nametxt').css('display','none');
-                }
+            if(this.model.get('monsterName') == "" || this.model.get('monsterName') == undefined){
+                nametxt.css('display','none');
+            }else{
+                var name = this.model.get('monsterName').substr(0, 1).toUpperCase() + this.model.get('monsterName').substr(1);
+                nametxt.html("Hi, I'm " + name);
+                TweenMax.from(nametxt, 1, {css:{opacity:0, y:10}, delay:2});
             }
 
             this.open();

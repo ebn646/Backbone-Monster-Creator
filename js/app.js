@@ -61,7 +61,6 @@ define(['jquery',
  			var self = this;
  			
  			App.appView = this;
- 			// load first page
  			App.router = new Router();
  			Backbone.history.start();
 		}

@@ -60,8 +60,6 @@ define(['backbone',
 
 			Backbone.dispatcher.trigger("contentOpen", [this.cid]);
 
-			// connects with router to check initial values
-
             self.buildThumbnails();
 
 		},

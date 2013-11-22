@@ -1,0 +1,39 @@
+#CustomizeNameView{
+
+  .input-field{
+    position: relative;
+    width: 242px;
+    height: 51px;
+    border: 0 none;
+    background: #4d7db6;
+  }
+
+  #name-selector {
+    margin: 30px 0 0 0;
+  }
+
+  #name-selector input {
+    position: absolute;
+    top: 0px;
+    width: 242px;
+    height: 51px;
+    border: 0 none;
+    background: transparent;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 700;
+    padding: 0 16px;
+  }
+
+  .errorimg{
+    position:absolute;
+    left:250px;
+    top:129px;
+    display:none;
+  }
+
+  .errorimg.active{
+    display:block;
+  }
+}

@@ -2,25 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step2/chooseColor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step2/preloader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_splash.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/_customizeType" afterPath="$PROJECT_DIR$/sass/_customizeType.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step3/customize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step4/form_alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/customize/step4/name.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/models/AppResources.js" afterPath="$PROJECT_DIR$/js/models/AppResources.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/CustomizeTypeView.js" afterPath="$PROJECT_DIR$/js/views/CustomizeTypeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/CustomizeColorView.js" afterPath="$PROJECT_DIR$/js/views/CustomizeColorView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/CustomizeView.js" afterPath="$PROJECT_DIR$/js/views/CustomizeView.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/MonsterView.js" afterPath="$PROJECT_DIR$/js/views/MonsterView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_customize.scss" afterPath="$PROJECT_DIR$/sass/_customize.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_customizeAccessories.scss" afterPath="$PROJECT_DIR$/sass/_customizeAccessories.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_customizeColor.scss" afterPath="$PROJECT_DIR$/sass/_customizeColor.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_preloader.scss" afterPath="$PROJECT_DIR$/sass/_preloader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_customizeName.scss" afterPath="$PROJECT_DIR$/sass/_customizeName.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/customizeColorTemplate.html" afterPath="$PROJECT_DIR$/templates/customizeColorTemplate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html" afterPath="$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/customizeName.html" afterPath="$PROJECT_DIR$/templates/customizeName.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/screen.css" afterPath="$PROJECT_DIR$/stylesheets/screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Backbone-Monster-Creator.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385086616335" ignored="false" />
+    <file path="/Dummy.txt" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385125243491" ignored="false" />
     <file path="/config.rb" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385036042987" ignored="false" />
     <file path="/screen.scss" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385037484302" ignored="false" />
     <file path="/index.html" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385037127636" ignored="false" />
@@ -28,11 +28,14 @@
     <file path="$PROJECT_DIR$/../assessment-test-case/appView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385047762372" ignored="false" />
     <file path="$PROJECT_DIR$/../github/Backbone_AMD/js/main.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385085596151" ignored="false" />
     <file path="/CustomizeTypeView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385087544953" ignored="false" />
-    <file path="/MonsterView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123255745" ignored="false" />
+    <file path="/MonsterView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385127986313" ignored="false" />
     <file path="/_customize.scss" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123610655" ignored="false" />
     <file path="/a.dummy" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123742434" ignored="false" />
     <file path="/app.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385123988232" ignored="false" />
     <file path="/customizeColorTemplate.html" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385124141848" ignored="false" />
+    <file path="/customizeAccessoriesTemplate.html" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385125498305" ignored="false" />
+    <file path="/AppResources.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385126705803" ignored="false" />
+    <file path="/CustomizeView.js" changelist="8f0c45ba-3218-40ce-95fa-6cd8c0d288d8" time="1385127588099" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +55,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="101" selection-start="315" selection-end="315" vertical-scroll-proportion="0.10810811">
+            <state line="63" column="0" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customizeColorTemplate.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/customizeColorTemplate.html">
+      <file leaf-file-name="customizeName.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/customizeName.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="61" selection-start="509" selection-end="509" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_customizeColor.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/_customizeColor.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.6">
+            <state line="3" column="76" selection-start="132" selection-end="132" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
@@ -82,7 +76,7 @@
       <file leaf-file-name="CustomizeColorView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/views/CustomizeColorView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="33" selection-start="2127" selection-end="2179" vertical-scroll-proportion="0.0">
+            <state line="63" column="14" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,17 +85,30 @@
       <file leaf-file-name="AppResources.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/models/AppResources.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="62" selection-start="4323" selection-end="4323" vertical-scroll-proportion="0.0">
+            <state line="153" column="0" selection-start="4490" selection-end="4490" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_preloader.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/_preloader.scss">
+      <file leaf-file-name="CustomizeView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/CustomizeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="1" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-32.6">
-              <folding />
+            <state line="324" column="72" selection-start="9292" selection-end="9346" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonsterView.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/views/MonsterView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="63" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.6402214">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,37 +117,6 @@
         <entry file="file://$PROJECT_DIR$/js/views/CustomizeTypeView.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonsterView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/views/MonsterView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="41" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_customize.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/_customize.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="308" column="14" selection-start="7704" selection-end="7704" vertical-scroll-proportion="-23.68">
-              <folding>
-                <element signature="e#64#895#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="39" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,21 +140,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config.rb" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/sass/_normalize.scss" />
-        <option value="$PROJECT_DIR$/sass/screen.scss" />
         <option value="$PROJECT_DIR$/sass/_preloader.scss" />
         <option value="$PROJECT_DIR$/sass/_customizeType.scss" />
         <option value="$PROJECT_DIR$/js/views/CustomizeTypeView.js" />
-        <option value="$PROJECT_DIR$/js/views/MonsterView.js" />
         <option value="$PROJECT_DIR$/sass/_customize.scss" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/templates/customizeColorTemplate.html" />
-        <option value="$PROJECT_DIR$/sass/_customizeColor.scss" />
-        <option value="$PROJECT_DIR$/js/models/AppResources.js" />
-        <option value="$PROJECT_DIR$/js/views/CustomizeColorView.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/sass/_customizeAccessories.scss" />
+        <option value="$PROJECT_DIR$/sass/_customizeColor.scss" />
+        <option value="$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html" />
+        <option value="$PROJECT_DIR$/templates/customizeName.html" />
+        <option value="$PROJECT_DIR$/sass/_customizeName.scss" />
+        <option value="$PROJECT_DIR$/js/views/CustomizeColorView.js" />
+        <option value="$PROJECT_DIR$/js/models/AppResources.js" />
+        <option value="$PROJECT_DIR$/js/views/CustomizeView.js" />
+        <option value="$PROJECT_DIR$/js/views/MonsterView.js" />
       </list>
     </option>
   </component>
@@ -392,6 +369,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="step5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-Monster-Creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="step2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -421,10 +464,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/customize/step4" />
+      <recent name="$PROJECT_DIR$/images/customize/step3" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/sass" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/customize" />
@@ -473,7 +517,11 @@
       <created>1385086619546</created>
       <updated>1385086619546</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="routine changes">
+      <created>1385125250952</created>
+      <updated>1385125250952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -561,59 +609,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/models/AppCopy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_splash.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="397" selection-end="397" vertical-scroll-proportion="0.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_customizeType.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="-17.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/CustomizeView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/MonsterView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="41" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_customize.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="308" column="14" selection-start="7704" selection-end="7704" vertical-scroll-proportion="-23.68">
@@ -644,20 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_customizeColor.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/models/AppResources.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="62" selection-start="4323" selection-end="4323" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/views/CustomizeTypeView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
@@ -665,17 +646,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/CustomizeColorView.js">
+    <entry file="file://$PROJECT_DIR$/sass/_customizeColor.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="33" selection-start="2127" selection-end="2179" vertical-scroll-proportion="0.0">
+        <state line="11" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.31132075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_customizeName.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="61" selection-start="145" selection-end="145" vertical-scroll-proportion="0.2264151">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeAccessoriesTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="129" selection-end="139" vertical-scroll-proportion="0.94350284">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_customizeAccessories.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="2556" selection-end="2556" vertical-scroll-proportion="0.9433962">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="101" selection-start="315" selection-end="315" vertical-scroll-proportion="0.10810811">
+        <state line="63" column="0" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/customize/step4/name_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/customizeName.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="76" selection-start="132" selection-end="132" vertical-scroll-proportion="-1.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/CustomizeColorView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="14" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/AppResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="0" selection-start="4490" selection-end="4490" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/CustomizeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="324" column="72" selection-start="9292" selection-end="9346" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/MonsterView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="63" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.6402214">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
